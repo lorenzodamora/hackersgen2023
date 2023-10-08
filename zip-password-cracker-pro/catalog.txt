@@ -1,0 +1,937 @@
+ 
+=============================================================
+         Moose's Software Catalog - September, 2007
+        (84 Freeware programs + 1 Shareware program)
+=============================================================
+
+
+Screen shots, additional information, and the latest version
+of these and other programs are available from :
+
+	http://move.to/moose
+
+All Windows programs are for Windows 95, 98, ME, NT, 2000, XP, and similar.
+
+All programs are Freeware, which means that they are free software.  
+Anyone - any person, any company, or any business - can use these 
+program for free.  No fees or payment is required.
+
+However, if you find any of my programs useful, then please 
+consider making a PayPal donation to support my efforts.
+(To make a donation, please run the program and select 
+the "About" option under the Help menu, and then click 
+the PayPal link on the "About" screen).
+
+
+****************************
+***** Windows Software *****
+****************************
+
+Apple 2 Disk Drive Sound Simulator
+
+	This does just what the title says - it simulates the 
+	sound of Apple 2 disk drives by playing back sounds I 
+	recorded of my Apple 2 disk drives in action. 
+	Essential for all old Apple ][ fanatics ... ;) 
+
+
+Astronaut's Chronometer
+      
+	This program calculates and displays the passage of time 
+	on Earth and in the space ship, when the space ship is 
+	going at close to the speed of light.
+
+
+Backup Again
+
+	Backup Again is a program that makes backing up your files
+	a breeze.
+
+	More specifically, Backup Again allows you to :
+	- specify the directories to backup, 
+	- specify whether you want to backup each directory or each 
+	  directory and each of their sub-directories,
+	- specify whether you want to backup all files, or just
+	  those modified after a certain date,
+	and then you simply press the "Backup and ZIP" button
+	and all files are backed-up and compressed into a single 
+	ZIP file which is automatically named according to the 
+	current date / time.
+
+	With Backup Again, backing up your data need never get 
+	you down !!
+
+
+Big Mouse Pointer
+
+ 	This program sits in the tray bar (with the clock, etc) and 
+	enables you to use a BIG arrow (of just about any size and 
+	colour) as the mouse pointer.
+
+
+	Great for demonstrations, presentations, lectures, or people 
+	who get sick of hunting for Microsoft's miniscule mouse pointer 
+	on their lovely new 21 inch monitors ...  ;)
+
+
+Binary Clock
+
+	Binary Clock is a "for fun" program that displays a re-sizable
+	binary clock - that is, a clock where the time is displayed 
+	via the binary number system (base 2) instead of the 
+	decimal number system (base 10).
+
+	A whole range (in fact, some people would probably say 
+	"a whole overkill") of settings, graphics, and options 
+	are available via the settings menu.
+
+
+Birthday and Event Reminder
+
+	Birthday and Event Reminder allows you to easily keep track of 
+	birthdays, anniversaries, school reunions, and other important 
+	annual events.
+
+	A range of functionality is provided with the program to help 
+	you add, update, change, or delete events, and then report on 
+	the events occuring within a specified number of days.  You 
+	can copy and paste this report into emails or print it.
+	You can also import the data from other date reminder progframs.
+
+	This program should be very useful for helping you keep forwarned 
+	of all important dates, so that you give yourself plenty of time 
+	to organise and prepare for birthdays, anniversaries, and so on.
+	Now, there is NO EXCUSE for forgetting or leaving things until 
+	the last minute !!!
+
+
+Calendar Year Simple
+
+	Calendar Year Simple shows a very simple full year 
+	calendar for whatever year you select - and that's 
+	about it.
+
+
+Check Sum Calculator
+
+	The program calculates checksums for user-selected 
+	files and directories, and enables the user to compare
+	checksum results against previous calculations.  
+	Also includes a great Command Line mode to enable 
+	automatic periodic checking of files, with any 
+	mismatches reported to the user.
+	Checksums are very useful for making sure files have
+	not been corrupted, changed, or tampered with.
+	The included 32-bit version supports long file names,
+	and enormous file lists.
+      
+
+Clean-Up Old Files
+
+        Enables the user to specify one or more directories,
+        and then periodically clean out / erase / delete files 
+        that haven't been modified for a certain number of days.
+        The program can run automatically at Windows start-up
+        and also automatically exit after the clean-up.
+
+
+Clipboard Tools 
+
+	Clipboard Tools enables you to :
+	- Erase the data on the Window's Clipboard,
+	- View the Text or Bitmap data in the Window's Clipboard,
+	- List the formats of data currently available in the 
+	  Window's Clipboard.
+
+	This has various uses, but was primarily developed to enable 
+	people to copy data from Windows or DOS console applications : 
+	Windows sometimes does not clear its clipboard, and wont allow 
+	you to copy any more data until you erase the clipboard's contents.  
+	Clipboard Tools is ideal for clearing Windows clipboard for you.
+
+
+Computer Space Simulator
+
+	Computer Space Simulator is a remake / recreation of Computer Space, 
+	which was the very first coin-operated video arcade game and went 
+	on sale in 1971.
+
+	The game play in Computer Space consists of you controlling a Rocket 
+	and attacking and avoiding the computer controlled enemy Saucers 
+	that are trying to shoot you or collide with you.  You have an 
+	infinite number of lives, but each game has a set time limit.  
+	The object of the game is to have a higher score than the enemy 
+	at the end of the time limit.
+
+	Demo, 1 Player Vs Saucers, Co-Op 2 Player Against the Saucers,
+	and Player 1 Vs Player 2 (No Saucers) modes of play are supported.
+
+
+CPU Fault Detector
+
+	This program executes dozens of floating point calculations 
+	that are known to generate incorrect results on some extremely 
+	rare Intel Pentium Processors from the mid-1990's. 
+
+
+CPU Monitor
+
+	A utility to display graphical CPU usage and average 
+	CPU usage. 
+
+      
+Date & Time
+
+	A very simple clock program that simply displays the date and time. 
+
+
+Diablo II : Windows Help File
+
+	My help file for the Diablo II computer game, as well as my 
+	review / comments about the game. 
+
+
+Directory Usage Monitor
+
+	Directory Usage Monitor enables you to analyse the
+	disk space used and the number of files present in a
+	directory and all of its sub-directories on a harddisk, 
+	floppy disk, CD ROM, Network Drive, or any other form of disk.
+
+
+Disk Monitor
+
+	A utility to display graphical Disk usage for up to 26 user
+	selected disk drives, along with a total for all drives.
+
+
+Email Address Obscurifier
+
+	This program can help you to obscure the email addresses 
+	on your web page(s) so that they act the same and function the 
+	same as before, but so that they cannot easily be accessed / 
+	identified by email harvesting programs used by people 
+	who send unsolicited junk email (SPAM) to 1,000's of 
+	internet users.
+
+	The result of this should be a reduction in the amount of 
+	SPAM (i.e. junk email) that you receive.
+
+	If this program is of interest to you, then check out another 
+	of my FREE programs called "Spam Analysis Tool" below.
+
+
+File Mover / Copier
+
+	File Mover / Copier is a program to help you move or 
+	copy files from one or more directories (and, if you 
+	desire, all of the sub-directories in these directories) 
+	to a single target directory.
+
+
+File Patcher
+
+	This program modifies another file according to the values 
+	contained in a patch file. This is useful for automating the 
+	modifications / updates of .EXE or other files for games / 
+	applications. 
+
+
+File Synchronizer
+
+	File Synchronizer allows you to sychronise some or all
+	of the files in 2 directories, and if you like, all of
+	their sub-directories.
+
+	File Synchronizer is (hopefully) extremely useful for people 
+	who (like me) have their data spread over multiple PCs - such as Work 
+	and Home PCs, along with work on floppies, removable harddrives,
+	ZIP / JAZZ / SyQyest / Orb drives, rewritable CDs, or other media.
+
+	This program enables you to easily and quickly make sure 
+	you have the latest versions of files on all machines / media,
+	and that your master directory contains the latest versions 
+	of all files.
+
+
+File Tools
+
+	File Tools enables you to grab a list of files (with long or  
+	short directory path and long or short file names), stamp files 
+	with the current date and time, make text files from MAC 
+	or UNIX environments readable, test the integrity of a 
+	bunch of ZIP files, rename a bunch of files, search and 
+	replace the contents of a bunch of files, word wrap and 
+	un-word wrap the text lines in files, and more !!
+	All at the click of a button !!!
+
+
+File Usage Monitor
+
+	File Usage Monitor simply monitors and logs the usage of 
+	user-selected files.
+	An example use of this program could be to enable
+	companies / people to justify / support	work invoices sent 
+	to clients by logging the amount of time spent working 
+	on computer files relating to each client.
+	The included 32-bit version resides in the Windows 95 / NT 
+	Icon Tray and supports long file names.
+
+
+Font Reviewer
+
+	Font Reviewer allows you to view all fonts installed on your 
+	computer and see any text you like written in any or all 
+	of the fonts that you select.
+
+	Font Reviewer was developed to make font selection simple, 
+	fast, easy, and painless.
+
+
+Game / Sprite Engine (Prototype)
+
+	This prototype game is simply to allow me to develop and test my 
+	prototype sprite engine.
+
+
+International Clock
+
+	A clock utility that enables you to display the current time 
+	for the location you are in now, along with the current time 
+	for up to 10 other locations (anywhere in the world) you 
+
+	specify, according to the time differences you specify. 
+	Also has a great Time Comparison Table to enable you
+	to easily compare times at any of your chosen locations.
+
+      
+Internet Download Buddy 
+
+	Internet Download Buddy is designed to help you easily 
+	download groups of files from the internet.  The program 
+	contains functionality to help you generate and process 
+	lists of files, and then download these files to your PC.
+	The text file accompanying the program cotains a detailed
+	step by step guide to using the program to help you get
+	up to speed as soon as possible.
+
+
+Keyboard and Mouse Button Odometer 
+
+ 	This program sits in the tray bar (with the clock, etc) and keeps 
+	track of :
+	- how often you hit each key on the keyboard,
+	- how often you press the left, right, and middle mouse buttons.
+
+	The program shows you the total clicks, and the clicks for each 
+	key / button.  You can sort the data by ASCII Value, Key / Button 
+	Name, or Number of Key Presses, in either in ascending or 
+	descending order.
+
+
+Keyboard Mapper 
+
+	Keyboard Mapper enables you to create keyboard maps - that is, 
+	diagrams showing you what particular keyboard keys do for a 
+	particular computer program, application, or game.  
+	
+	You can save and load the keyboard maps to file, and you 
+	can also save a bitmap of the entire keyboard to file 
+	and copy it to the Windows Clipboard.
+
+
+Key Sound Generator
+
+	Key Sound Generator is a fun program that plays a particular sound 
+	effect each time a mouse button or keyboard key is pressed. 
+	Different sounds are played depending on the type of key or button. 
+	Typewriter sound effects are included with the program free of charge. 
+	Other sounds effect packs are available for download from my web page.
+
+
+Key Stroke Recorder
+
+	Key Stroke Recorder enables you to log all key presses 
+	and mouse button clicks on your computer so you can keep track
+	of what has been typed on your computer.
+
+	This program might be useful for anyone who wants to check
+	what someone is doing / typing on your computer.
+	e.g. keep track of what your teenage kids are typing while 
+	using the internet or any other programs.
+
+	Also see: Screen Machine
+
+
+Life Clock
+
+	This program displays the amount of time you might have left 
+	to live. The aim of this program is to make you realise 
+	that time is passing and motivate you to live.  i.e. don't
+	delay, start living and achieving your goals today ! 
+
+
+Lottery Number $elector
+
+	Lottery Number $elector is a program designed for the
+	sole purpose of helping you win loads of dosh on the lottery,
+	by helping you choose a nice random set of numbers for you 
+	to enter into your lottery - whatever its characteristics !
+
+
+Mad Cow Disease Diagnosis
+
+	Mad Cow Disease Diagnosis is a "for fun" program - 
+	simply click on the images displayed to hear sounds 
+	of normal and mad cows.
+
+
+MAME 32 Tools
+
+	MAME32 Tools is a companion utility / tool for the 
+	MAME 32 Arcade Machine Emulator.
+	This program is for use with versions of MAME 32 prior to v0.63.
+
+
+MAME 32 INI Tools
+
+	MAME32 Tools is a companion utility / tool for the 
+	MAME 32 Arcade Machine Emulator.
+	This program is for use with versions of MAME 32 after v0.63.
+
+
+MAME Benchmarker
+
+	MAME Benchmarker enables you to choose which MAME games 
+	to benchmark, which command line parameters to use
+	when running MAME, and then benchmark these games 
+	within MAME.
+
+	After the benchmarking is complete, a TAB separated 
+	report is displayed and you can easily copy and paste 
+	this into a spreadsheet.
+
+
+
+MAME Screen Shot Organiser
+
+	MAME32 Screen Shot Organizer simply enables you to view and drag 
+	& drop (with the mouse) screen shots so that you can arrange your 
+	screen shots for each parent game and its clones with ease.
+
+
+Memory Monitor
+
+	A utility to graphically display Windows' Memory usage : Free 
+	Memory, Free GDI Memory, and Free User memory, and is mainly 
+	intended for use with Windows 3.x. 
+
+
+Moose Pong (Game)
+
+	Moose Pong (pun intended !) - is the first "PONG" game in 
+	the universe to feature 3 Stooges sound effects !!! 
+	(Actually, these sound effects are samples of me doing
+	impersonations of the 3 Stooges - so for this reason 
+	alone, Moose PONG has got to be worth a look (or 
+	should that be sniff ?) !! ;)) 
+
+
+Morse Code Explorer
+
+	With this program, you can : 
+	- Encode Text into Morse Code. 
+	- Decode Morse Code back to Text. 
+	- Display all Morse Code codes for each letter in the 
+	  alphabet.  i.e. a quick reference chart. 
+
+
+Mosaic Maker Extractor
+
+	Mosaic Maker Extractor enables you to create mosaics or pull 
+	them apart again into their component images (tiles).
+
+	A mosaic is a big picture made out of lots of little pictures.
+
+	So, with Mosaic Maker Extractor, you can create your own mosaics
+	or extract the tiles from existing mosaics for further use in 
+	other mosaics.
+
+
+Mouse Odometer
+
+	Mouse Odometer is a "for fun" program that simply keeps track 
+	of your mouse cursor movement and converts this to a total 
+	distance travelled in Kilometres by the mouse cursor, based on 
+	the screen resolution of your current display.
+
+
+Nixie Clock
+
+	Nixie Clock is a "for fun" program that displays a re-sizable
+	clock made out of images of Nixie Tube digits.
+
+
+Overhead Cable Sag Calculator - SHAREWARE
+
+	This program calculates the sag of overhead electricity or other 
+	cables using a variety of methods. 
+
+	More specifically, this computer program calculates the sag of 
+	overhead conductors and earthwires for transmission and distribution 
+	lines, enabling you to use a variety of methods to calculate the sag, 
+	and also generate a report and save the data for virtually any number 
+	of spans and cables within any number of projects. 
+
+	This program does NOT have free upgrades for life.  i.e. Registered 
+	users need to purchase upgrades.  (Unlike my other programs ...)
+
+
+Parrot Trainer
+
+	Teach your Parrot (or any other bird capable of speech) to 
+	talk easily and effortlessly. Also use it to nag your kids, 
+	husband, wife, dog, etc. ;) The program even comes with 4 
+	sound samples of me talking like a Parrot ! What a bonus !
+	What an idiot !!! 
+
+
+Periodic Table of Elements
+
+	Periodic Table is a program to help you investigate, look
+	up, or compare the details for all known elements.  e.g.
+	Hydrogen, Helium, Lithium, etc.
+
+	This program contains a standard Periodic Table of Elements - 
+	and if you click the mouse on an element, then a report for 
+	the selected element is displayed.  You can also find an 
+	element by name or abbreviation - which can help find / look 
+	up elements.
+
+	Many Element Comparison Graphs are provided to help you compare 
+	criteria for each element.  e.g. Atomic Radius, Atomic Weight,
+	Boiling Point (K), Melting Point (K), Electrical Conductivity,
+	etc.
+
+
+Pick A Card
+
+	Pick A Card will use cunning, stealth, and advanced
+	computer heuristics to holistically determine 
+	which card you selected from a set of cards.
+
+
+Post Code Lookup
+
+	Post Code Lookup enables you to search on postcodes, locations, 
+	and states / regions in your country to find the place name or 
+
+	postcode for the locations you are interested in - all at the
+	click of a mouse button.  This program comes complete 
+	with Postcode data for :
+	- Australia       (16,308 postcodes / locations)
+	- New Zealand     (2,219  postcodes / locations)
+	- United Kingdom  (27,195 postcodes / locations)
+
+	More postcodes for more countries to be added in the future !
+
+
+Print and PDF Pictures
+
+	Print and PDF Pictures enables you to drag and drop a whole 
+	bunch of pictures from Windows Explorer, move or sort these
+	into the required order, and then either :
+	- Print them all out to a printer, 
+	- Or, if you have Adobe Acrobat Distiller installed
+	  (http://www.adobe.com/), then you can print them all 
+	  to the Acrobat Distiller, which places all of the 
+	  images into a PDF (Portable Document Format) file.
+
+	This program should be useful to anyone who wants to print 
+	a number of images, or get them into a suitable format that 
+	enables easy reading "on screen".
+
+
+Program Code Auditor 
+
+	Program Code Auditor is a tool specially designed for programmers
+	or the managers of programmers or the teachers of programming 
+	students to analyse the program code that has been written, and
+	see how many lines of code there are and how much white 
+	space and comments there are in the code.
+	
+	The program produces a summary of all source files audited.
+	All of this information is written to a report that you can
+	copy to the Window's Clipboard, print, or save to disk.
+
+	Built into this program is support for 17 programming languages 
+	such as Delphi / Pascal, C / C++, Java, HTML, COBOL, Fortran, etc.  
+	There is also an option for you to specify the comment start 
+	and end delimiters, etc, and this should make Program Code 
+	Auditor work with any programming language !!
+
+
+Quiz Master 
+
+	Quiz Master is a program that enables you to easily set-up 
+	quizzes - either for fun, or to test or build knowledge of 
+	particular subject areas, or to help with assessment of 
+	student achievement.
+
+	Quiz Master enables you to specify the Questions to be asked, 
+ 	the list of possible answers, along with the correct answer,
+	the time allowed to answer each question, so that
+	difficult questions can be allocated more time, and,
+	the score (or weighting) of questions, so that harder 
+	questions can be made to be worth more.
+
+
+RAM / Swapfile Monitor
+
+	RAM / SWAP Monitor displays details and charts 
+	of the Physical RAM and SWAPfile (Page file) usage 
+	on your PC, and of the free / used space on a 
+	selected Disk Drive, and also displays the CPU and
+	Average CPU usage.
+
+
+Real Estate Calculator
+
+	Real Estate Calculator enables you to perform a number of 
+	calculations which should be useful to anyone who is involved 
+	in buying or selling properties or houses, such as first home 
+	buyers, investors, real estate agents, solicitors, etc.
+
+	More specifically, this program allows you to calculate :
+	Real Estate Agent's Commission, Government Stamp Duty, 
+	adjustments (for rates, rent, etc) due at settlement,
+	calculate the mortgage / loan details, and generate a
+	detailed mortgage / loan report.
+
+
+Robot Simulator
+
+	Robot Simulator allows you to simulate and control 
+	your own virtual robot(s) on screen - aka Leggo 
+	Mind Storms robots, but without the flat batteries 
+	or the hassles.
+
+	By using a simple command language (called RoboSlang), 
+	you can control your virtual robots on screen, to make 
+	them move around, dance, follow lines, and explore 
+	their virtual world.
+
+
+ROM Chopper
+
+	ROM / File Chopper allows you to quickly and easily chop files 
+	in half and throw away the second half. This is great for fixing 
+	ROMs with "INCORRECT LENGTH" errors (as reported by MAME and 
+	other emulators).
+
+
+ROM Clone Zip Manager
+
+	ROM Clone Zip Manager could be a very useful program for people 
+	who use the Multiple Arcade Machine Emulator (MAME).
+	ROM Clone Zip Manager can delete redundant / duplicate files 
+	from inside Clone ROM ZIPs. 
+
+
+ROM ZIP Differences Manager
+
+	ROM ZIP Differences Manager could be a very useful program for 
+	people who use the Multiple Arcade Machine Emulator (MAME).
+	ROM ZIP Differences Manager can automatically extract the 
+	files that are different between all changed ROM sets, and, 
+	automatically apply these differences to existing ROM sets. 
+
+
+Sanitize Disk Space
+
+	Sanitize Disk Space enables you to select any drive on your PC,
+	such as a floppy disk or any of your harddrives or harddrive 
+	partitions, and then sanitize the free / unused space on this drive.
+
+	Once sanitized, the data in your deleted files can never again be 
+	recovered, and no hacker - no matter how clever - will ever be able 
+	to view any data contained in your deleted files.
+
+	Ideal for use by anyone selling or replacing their PC - especially 
+	if the PC contained any sensitive or personal data.
+
+
+Screen Machine
+
+	Screen Machine is a program that captures full screen 
+	screen shots of your computer in action at 1 minute, 
+	5 minute, or whatever intervals you choose.
+
+	This program might be useful for anyone who wants to 
+	check what someone is doing / typing on your computer.
+	e.g. keep track of what your teenage kids are typing 
+	while using the internet or any other programs.
+
+	Also see: Key Stroke Recorder
+
+
+Solar System Simulator
+
+	Solar System Simulator is a program to help you visualise 
+	the solar system, compare the planets, and find out more about 
+	the planets, and includes :
+	- An animation of the Solar System, with the planets rotating around 
+	  the Sun - and you can alter the speed of animation, choose which 
+	  planet to "stand on" so the perspective of the rotating planets and 
+	  Sun is adjusted accordingly, and trace the orbits of the planets. 
+	- Many dozens of Planetary Comparison Graphs (with various options)  
+	  to let you compare dozens of criteria, such as mass, radius, volume, 
+	  distances from the sun, atmospheric composition, visits by 
+	  space probes, wind speeds, and many other criteria for each planet.
+	- Planet Statistics and information, with complete detailed 
+	  reports on each planet or our Sun - including size, mass, 
+	  length of day, temperature ranges, density, volume, 
+	  surface area, orbital velocity, space craft visits, and 
+	  many dozens of other measurements, statistics, and 
+	  interesting facts.
+	- A Weight Calculator to enable you to enter your weight 
+	  and calculate your weight on each planet.
+	- Extract Data : you can copy and paste any or all selected data 
+	  values into a spreadsheet or your own reports at the click of a 
+	  mouse button. 
+
+
+Sort It Out
+
+	Sort It Out is, in a nut shell, a list sorting utility. 
+	If you maintain lists of various things (names, addresses, 
+	games, etc) and you need them sorted, then this utility
+	could prove to be very useful for you. 
+
+
+Spam Analysis Tool
+
+	Spam Analysis Tool is especially designed for use by Mail System 
+	Administrators, or anyone else who runs an email server or 
+	wants to block unsolicited junk emails.  i.e. SPAM.
+
+	Spam Analysis Tool enables you to :
+	- Step through directories full of spam email, 
+	- View just the email headers or the entire email,
+	- View each spam email's contents with colour coding
+	- Select text (such as IP addresses, email addresses, etc) 
+	  at the click of the mouse button, and add these to a list 
+	  of unique items (which can be incorporated into a block file), 
+	- And do various other things.
+
+	If this program is of interest to you, then check out another 
+	of my FREE programs called "Email Address Obscurifier" above.
+
+
+Stay On Top
+
+	Stay On Top displays a list of all windows programs (and their 
+	individual component windows), and allows you to double click 
+	on one or more to make that window always stay on top of all 
+	other windows.  This can help improve unfriendly or badly 
+	written programs.
+
+
+Stop Watch
+
+	A stop watch utility with a memory to enable you to monitor 
+	internet connection time, benchmark tasks / activities, etc. 
+	The program keeps a detailed log of each Stop / Start event. 
+      
+
+Storm Distance Calculator
+
+	Storm Distance Calculator enables you to easily log the time 
+	between Lighting Flashes in a storm and the subsequent 
+	Thunder Rolls, and automatically :
+	- calculates the distance that the storm is from you, and,
+	- determines whether the storm is moving away from or towards 
+	  you.
+
+
+Student Results Merger
+
+	Student Results Merger is a program to help you handle / 
+	merge / process student results.
+
+	While the program was developed for the purpose of 
+	processing student results, it could also be used to 
+	process cycling race, horse race, swimming race, or 
+	keeping track of workers or volunteers, and/or various 
+	other results / details.
+
+
+Talking Clock
+
+	Talking Clock does just what the title says - it reads out 
+	the current time according to when and how often you want to 
+	hear it. You can even add / record your own sounds !! 
+	The following Talking Clock sounds files are now available 
+	for download : 
+	- Moose's Voice
+	- American Female Voice 
+	- Yoda (impersonator) sounds
+	- Mrs Doubtfire (impersonator) sounds
+	- Duke Nukem (impersonator) sounds
+	- 3 Stooges (impersonator) sounds - Coming Soon !!
+	- Sean Connery (impersonator) sounds - Coming Soon !!
+	- Many others - Coming Soon !!
+
+
+Text Buttons
+
+	Text Buttons enables you to place often used pieces of text 
+	behind anything up to 750 buttons, and view 1, 2, 3, or 4 
+	columns of 15 of these buttons at any time, so that any text 
+	you need is very easily and quickly obtainable when required.  
+	An extremely useful program.
+
+
+WEB Form Formatter
+
+	This program formats the results of a Emailed WEB Form 
+	to make it more usable / readable. 
+
+
+Windows PC Benchmarker
+
+	Windows PC Benchmarker enables you to :
+	1.  Benchmark and evaluate the performance of various selected 
+	    aspects of your computer.
+	2.  View the results of this benchmarking in a graph.
+	3.  Save the results and compare them against other selected 
+	    benchmark results.
+
+	This program should be useful to anyone who wants to 
+	evaluate or test the performance of their computer or 
+	tune up or fine tune the various aspects of their PC.
+
+
+Windows Wallpaper Changer 
+
+	Windows Wallpaper Changer randomly selects a Bitmap file and 
+	makes this the new Windows' Wallpaper (i.e. the picture you 
+	see behind the icons on your Main Windows Desktop).  
+
+	The user can specify directory from which Bitmaps are 
+	randomly chosen, and the interval (in Seconds) in which the
+	Windows Wallpaper is changed to the new bitmap.
+
+
+Words Worth - Crossword and Scrabble Companion
+
+	Words Worth - Crossword and Scrabble Companion
+	provides some very useful searching and word list 
+	maintenance functionality and is especially suited
+	to people who like playing scrabble, or doing 
+	crosswords, or using anyone who needs to look up words
+	or use words in other ways.  The program comes with
+	a massive list of 263,533 words - which includes all 
+	words used by tournament scrabble players.
+
+
+Yahtzee
+
+	My computerised version of this classic, incredibly addictive 
+	dice game.
+
+
+ZIP Password Cracker Pro
+
+	ZIP Password Cracker Pro enables you to generate 
+	passwords and apply these to password protected
+	ZIP files.  This can be an incredibly useful thing 
+	to do when you have backed up data to a ZIP file 
+	and mistyped or forgotten the password.   The program
+	has many useful password generation features, and
+	also saves Restart information as it tests 
+	passwords so that if your computer crashes, etc
+	then this program can continue where it left off.
+
+
+
+************************
+***** DOS Software *****
+************************
+
+2D Sprite
+
+	A very rough prototype prototype, graphics based "invaders" type game.
+
+
+ASCII Table
+
+	This is a very old program to write out an ASCII table to 
+	a file - with the character, and the decimal, binary, octal, 
+	and hexadecimal indexes.
+
+
+Blaster
+
+	A very old character based very rough prototype "invaders" type game. 
+
+
+Columns
+
+	My very rough prototype character based prototype version of Columns.
+
+
+Loan Analyser
+
+	This program is a Loan Analyser. You enter the Loan Principal, 
+	the Loan Interest Rate, the Loan Payments Per Year (eg. 52, 26, 12), 
+	the Loan Repayment Per Period, and an output Report File Name.
+
+	The program then writes the Repayment Analysis report to the 
+	file name you specify, and this report contains a detailed analysis 
+	of the cummulative interest, principal repayed, and all details of 
+	the loan on a period by period basis for the life on the loan.
+
+	Windows users - please use "Real Estate Calculator" above.
+
+
+Password
+
+	This is a very old character based prototype "Security" program - 
+	suitable for a DOS environment.  Basically, it squawks like hell 
+	if you type in the wrong password. BTW, the password is XXXX or xxxx !
+
+
+Text Screen Grabber
+
+	This is a DOS memory resident (TSR) program, which allows you to 
+	grab TEXT from other DOS text based applications.  Basically, it 
+	pops up over the top of these applications and grabs their text 
+	screens, when you press the Hot-Key.
+
+
+Tetris
+
+	My prototype character based prototype version of Tetris.  This Tetris 
+	program includes various levels of play with different shape sets : 
+	Kids Tetris (easy), standard Tetris, hard Tetris, and Nightmare !
+
+
+All programs are Freeware, which means that they are free software.  
+Anyone - any person, any company, or any business - can use these 
+program for free.  No fees or payment is required.
+
+However, if you find any of my programs useful, then please 
+consider making a PayPal donation to support my efforts.
+(To make a donation, please run the program and select 
+the "About" option under the Help menu, and then click 
+the PayPal link on the "About" screen).
+
+All the best,
+
+ Mike "Moose" O'Malley
+____________________________________________________
+ Moose's Software Valley - Established July, 1996.
+ WEB:  http://move.to/moose
+____________________________________________________
+ 

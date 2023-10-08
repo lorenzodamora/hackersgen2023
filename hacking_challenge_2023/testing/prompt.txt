@@ -1,0 +1,2 @@
+cd C:\\Users\\ldamo\\OneDrive\\Desktop\\hackersgen\\hacking_challenge_2023\\hacking_challenge_2023
+vm.exe debug
