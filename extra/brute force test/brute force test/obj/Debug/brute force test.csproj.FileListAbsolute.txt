@@ -1,0 +1,14 @@
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\bin\Debug\brute force test.exe.config
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\bin\Debug\brute force test.exe
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\bin\Debug\brute force test.pdb
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\obj\Debug\brute force test.csproj.AssemblyReference.cache
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\obj\Debug\brute force test.csproj.CoreCompileInputs.cache
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\obj\Debug\brute force test.exe
+C:\Users\ldamo\OneDrive\Desktop\visual studio\c# console\brute force test\brute force test\obj\Debug\brute force test.pdb
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\bin\Debug\brute force test.exe.config
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\bin\Debug\brute force test.exe
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\bin\Debug\brute force test.pdb
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\obj\Debug\brute force test.csproj.AssemblyReference.cache
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\obj\Debug\brute force test.csproj.CoreCompileInputs.cache
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\obj\Debug\brute force test.exe
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\extra\brute force test\brute force test\obj\Debug\brute force test.pdb
