@@ -1,0 +1,9 @@
+##########################################
+# Welcooome to VM-O-MATIC                #
+#                                        #
+# Hacking is allowed ;-)                 #
+# ...but not recommended                 #
+##########################################
+
+Enter bytecode in hex format and hope for the best (e.g., CAFE0101):
+3D3D2A5F20436F6E677261747A212053333320793075206174204834636B33727367656E21205F2A3D3D

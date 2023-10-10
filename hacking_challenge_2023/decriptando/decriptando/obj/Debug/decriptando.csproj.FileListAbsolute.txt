@@ -1,0 +1,7 @@
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\bin\Debug\decriptando.exe.config
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\bin\Debug\decriptando.exe
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\bin\Debug\decriptando.pdb
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\obj\Debug\decriptando.csproj.AssemblyReference.cache
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\obj\Debug\decriptando.csproj.CoreCompileInputs.cache
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\obj\Debug\decriptando.exe
+C:\Users\ldamo\OneDrive\Desktop\hackersgen2023\hacking_challenge_2023\decriptando\decriptando\obj\Debug\decriptando.pdb
